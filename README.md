@@ -5,12 +5,13 @@
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=lu0ck&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu0ck&layout=compact&langs_count=6&theme=highcontrast"/> -->
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu0ck&theme=great-gatsby"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="120" alt="PY"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="120" alt="HTML5">   
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="120" alt="PHP">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="120" alt="C">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="90" alt="PY"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="90" alt="HTML5">   
+  <img src="https://img.icons8.com/color/2x/css3.png" width="90" alt="CSS3">
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="90" alt="JavaScript">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="90" alt="PHP">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="90" alt="C">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="90" alt="java">
 </table>
 
 <div> 
