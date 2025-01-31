@@ -2,9 +2,9 @@
 
 <table>
   <a href="https://github.com/lu0ck">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=lu0ck&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lu0ck&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu0ck&layout=compact&langs_count=6&theme=highcontrast"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu0ck&theme=great-gatsby"/>  
+  <!--<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu0ck&theme=great-gatsby"/>  -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="90" alt="PY"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="90" alt="HTML5">   
   <img src="https://img.icons8.com/color/2x/css3.png" width="90" alt="CSS3">
