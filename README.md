@@ -1,19 +1,137 @@
-# Hello World, I'm Lucas, be very welcome
+# 🎮 Hello World, I'm Lucas
+
+<p align="center">
+<img src="https://img.shields.io/badge/Profile-Lokya-0f172a?style=for-the-badge&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/Country-Brazil-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Developer-Fullstack-0f172a?style=for-the-badge"/>
+</p>
+
+---
+
+# 👤 Profile
+
+Fullstack developer focused on **automation, web systems and data analysis**.
+
+I enjoy building tools that solve real problems, automate repetitive work and improve workflows.
+
+Main interests:
+
+• Python automation
+• Web applications
+• Data analysis
+• System design
+
+---
+
+# 🧠 Tech Stack
 
 <table>
-  <a href="https://github.com/lu0ck">
- <!-- <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lu0ck&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu0ck&layout=compact&langs_count=6&theme=great-gatsby"/> -->
-  <!--<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lu0ck&theme=great-gatsby"/>  -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="90" alt="PY"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="90" alt="HTML5">   
-  <img src="https://img.icons8.com/color/2x/css3.png" width="90" alt="CSS3">
-  <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="90" alt="JavaScript">
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="70"><br>
+Python
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70"><br>
+HTML5
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="70"><br>
+CSS3
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70"><br>
+JavaScript
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="70"><br>
+TypeScript
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="70"><br>
+React
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="70"><br>
+Next.js
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="70"><br>
+Git
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70"><br>
+Linux
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="70"><br>
+Docker
+</td>
+
+</tr>
 </table>
 
-<div> 
-  <!-- <a href="https://www.youtube.com/@Loki_Rider" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
-  <a href = "mailto: lucaspaixaoprofissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucaspaixao-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+---
+
+# 🏆 Featured Projects
+
+*(Most committed projects)*
+
+| Project                                                   | Description                                                           | Tech                 |
+| --------------------------------------------------------- | --------------------------------------------------------------------- | -------------------- |
+| **Finance Dashboard**                                     | Financial control system with dashboards                              | Next.js / TypeScript |
+| **Warframe Market Analyzer**                              | Tool that reads items from the screen and checks prices automatically | Python               |
+| **[OFICINA_FZ15](https://github.com/lu0ck/OFICINA_FZ15)** | Workshop management system for motorcycle service tracking            | Python               |
+| **[Bot-Discord](https://github.com/lu0ck/Bot-Discord)**   | Discord bot for automation and server management                      | Python               |
+
+---
+
+# 📊 Language Statistics
+
+| Language      | Usage                |
+| ------------- | -------------------- |
+| 🐍 Python     | ████████████████ 45% |
+| 🟨 JavaScript | ██████████ 25%       |
+| 🔷 TypeScript | ████████ 18%         |
+| 🌐 HTML/CSS   | █████ 10%            |
+| ⚙️ Other      | ██ 2%                |
+
+---
+
+# 🌐 Contact
+
+<div>
+
+<a href="mailto:lucaspaixaoprofissional@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/lucaspaixao-dev">
+<img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
+
 </div>
+
+---
+
+<p align="center">
+🎮 Code • Build • Automate
+</p>
